@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shourya-einstein
 - 👀 I’m interested in playing casio
 - 🌱 I’m currently learning speed typing
-- 💞️ I’m looking to collaborate on an excellent calculator
+- 💞️ I’m thinkng to make an excellent calculator
 - 📫 How to reach me - sainishourya68@gmail.com
 
 <!---
